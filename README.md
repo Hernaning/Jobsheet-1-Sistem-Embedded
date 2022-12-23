@@ -19,7 +19,11 @@ Buatlah rangkaian seperti pada Gambar di bawah ini
 Buatlah program seperti pada script di bawah ini untuk mengendalikan led menggunakan push button. Kemudian upload program tersebut pada ESP32 dan berikut adalah hasilnya
 
 
-video
+
+
+https://user-images.githubusercontent.com/119298912/209267429-fa09839f-51ab-40f9-ae1c-9e319110cd32.mp4
+
+
 
 
 Tambahkan 1 LED dan 1 push button pada rangkaian, kemudian kembangkan program agar ketika push button ke-2 ditekan, LED akan melakukan blink setiap 500 ms sekali. Berikut hasilnya
